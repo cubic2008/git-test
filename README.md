@@ -2,4 +2,7 @@
 
 ## Introduction
 
-This repository is for git testing
+This repository is for git testing.
+
+There are two item groups in the repository: garden and food.
+
