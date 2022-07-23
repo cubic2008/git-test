@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 100 breads baked in Jan 2022.
+=======
+100 breads were backed in Jan 2022.
+>>>>>>> 359d86205fc36933714bfe320cd950eb716269bf
